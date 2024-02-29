@@ -23,5 +23,4 @@
    1. Choose the permissions you'd like this account to have. We recommend **Admin (all permissions)**, but you may want to manually select all checkboxes and leave out some of the **Releases** permissions such as **Release to production, exclude devices, and use Play App Signing**
    1. Click on **Invite User**
 
-https://github.com/BinaryBardBlizzard/docs/assets/161740646/3ec682ed-8daa-4f97-9b2a-7354c4b4823c
 
