@@ -22,3 +22,8 @@
    1. Click on **Account Permissions**
    1. Choose the permissions you'd like this account to have. We recommend **Admin (all permissions)**, but you may want to manually select all checkboxes and leave out some of the **Releases** permissions such as **Release to production, exclude devices, and use Play App Signing**
    1. Click on **Invite User**
+
+<video width="320" height="240" controls>
+   <source src="https://github.com/BinaryBardBlizzard/docs/blob/main/1.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
